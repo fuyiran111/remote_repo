@@ -1,2 +1,2 @@
 # remote_repo
-Create this repository just for linux learning test! 
+Create this repository just for git learning test over linux! 
